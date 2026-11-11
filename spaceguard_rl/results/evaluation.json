@@ -1,0 +1,30 @@
+{
+  "No control": {
+    "success_rate_%": 0.0,
+    "avg_reward": -195.92362786942266,
+    "avg_delta_v": 0.0,
+    "avg_slot_deviation": 0.0,
+    "avg_steps_survived": 25.812
+  },
+  "Random": {
+    "success_rate_%": 0.0,
+    "avg_reward": -221.26988696056935,
+    "avg_delta_v": 15.028800000000004,
+    "avg_slot_deviation": 3.7581769404237066,
+    "avg_steps_survived": 31.182
+  },
+  "Rule-based": {
+    "success_rate_%": 94.39999999999999,
+    "avg_reward": -5.349933348622169,
+    "avg_delta_v": 25.276800000000023,
+    "avg_slot_deviation": 2.9884272001455554,
+    "avg_steps_survived": 287.818
+  },
+  "SpaceGuard RL": {
+    "success_rate_%": 85.6,
+    "avg_reward": -106.07877099477183,
+    "avg_delta_v": 65.09280000000003,
+    "avg_slot_deviation": 8.139307476974151,
+    "avg_steps_survived": 274.202
+  }
+}
